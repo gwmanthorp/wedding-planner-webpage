@@ -36,7 +36,7 @@ The Wedding Venue Finder is a web application designed to help users find the pe
 
 1. Clone the repository to your local machine.
 2. Host the application on a local or remote server.
-3. Access the application through your web browser, home page is [wedding.php](wedding.php).
+3. Access the application through your web browser, home page is `wedding.php`.
 
 ## Usage
 
