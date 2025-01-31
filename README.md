@@ -42,6 +42,6 @@ The Wedding Venue Finder is a web application designed to help users find the pe
 
 1. Open the application in your web browser.
 2. Use the search form to filter venues based on your criteria.
-3. View detailed information about each venue by clicking on the "View details" button.
+3. View detailed information about each venue by clicking on the `"View details"` button.
 4. Check the availability of the venue using the calendar.
 5. Read reviews and view ratings for each venue.
